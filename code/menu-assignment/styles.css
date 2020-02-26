@@ -1,0 +1,124 @@
+/* font-family: "Raleway", sans-serif; */
+.introduction {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  color: #83A2A3;
+  width: 70%;
+  margin: 0 auto 20px;
+  line-height: 25px;
+}
+
+.introduction p {
+  width: 70%;
+  margin: 0 auto 20px;
+}
+
+.price {
+  font-style: italic;
+}
+
+p#kitchen {
+  text-transform: uppercase;
+  color: #777777;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+#image {
+  padding-bottom: 30px;
+  padding-top: 0;
+}
+
+#room {
+  color: #83A2A3;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: lighter;
+  border-top-style: dotted;
+  border-top-color: #CCCCCC;
+  border-top-width: 2px;
+  border-bottom-style: dotted;
+  border-bottom-color: #CCCCCC;
+  border-bottom-width: 2px;
+  width: 50%;
+  margin: 0 auto 20px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.FoodSection {
+  font-family: "Raleway", sans-serif;
+  width: 50%;
+  margin: 0 auto 20px;
+  text-align: left;
+}
+
+.foodtitle ul {
+    list-style-type: square;
+    margin-top: 1%;
+}
+
+.foodtitle h3 {
+  color: #B50838;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  line-height: 40px;
+  font-size: 20px;
+  border-bottom-style: dotted;
+  border-bottom-color: #CCCCCC;
+  border-bottom-width: 2px;
+  width: 50%;
+
+}
+
+.recommended {
+  border-style: dotted;
+  border-color: #CCCCCC;
+  border-width: 2px;
+  background-color: #E6ECEC;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-left: 4%;
+}
+
+#toppings {
+  color: #B50838;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 15px;
+  line-height: normal;
+}
+
+#sides p {
+  line-height: 10px;
+}
+
+.notes {
+  font-style: italic;
+  color: #999999;
+}
+
+.FOOTNOTES {
+  font-family: "Raleway", sans-serif;
+  text-align: left;
+  color: #83A2A3;
+  width: 50%;
+  margin: 0 auto;
+  line-height: 18px;
+  padding-top: 3%;
+}
+
+#restaurant {
+  float: right;
+  margin-left: 5%;
+}
+
+#ad {
+  color: black;
+  font-weight: bold;
+}
+
+#link {
+  color: #B50838
+}
