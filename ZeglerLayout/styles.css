@@ -1,0 +1,93 @@
+img {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+   width: 740px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.image1cap {
+  margin-right: 15px;
+}
+
+.image4cap {
+  margin-left: 15px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+#afterpic {
+  clear: left;
+}
+
+#content {
+ margin: 0 auto;
+ width: 740px;
+
+}
+
+
+
+.header h5, h6 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 14pt ;
+  font-style: italic;
+  padding: 0px;
+  margin-top: auto;
+  margin-bottom: 5px;
+}
+
+.header h1 {
+  font-family: "Helvetica", sans-serif;
+  font-size: 24pt ;
+}
+
+p {
+  font-family: "Georgia", serif;
+  font-size: 13px;
+  line-height: 17pt;
+}
+
+.caption {
+  font-family: Helvetica, sans-serif;
+  font-size: 9pt;
+  color: #828387;
+  text-align: center;
+}
+
+#related {
+  font-family: Helvetica, sans-serif;
+}
+
+#related ul {
+  font-family: "Georgia", serif;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 20pt;
+}
+
+a {
+  color: #6087BF;
+}
+
+blockquote {
+  float: right;
+  width: 275px;
+  color: #900C3F;
+  font-size: 130%;
+  font-style: italic;
+  font-family: Georgia, serif;
+  margin: 0px 0px 10px 10px;
+  padding: 10px;
+  border-top: 1px solid #665544;
+  border-bottom: 1px solid #665544;
+}
