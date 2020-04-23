@@ -1,0 +1,20 @@
+/*
+font-family: 'Questrial', sans-serif;
+font-family: 'Playfair Display', serif;
+*/
+#content {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+#headline img {
+  width: 1200px;
+}
+
+p {
+  font-family: 'Questrial', sans-serif;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
