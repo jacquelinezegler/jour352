@@ -1,5 +1,5 @@
 /*
-font-family: 'Questrial', sans-serif;
+font-family: 'Lato', sans-serif;
 font-family: 'Playfair Display', serif;
 */
 #content {
@@ -12,9 +12,111 @@ font-family: 'Playfair Display', serif;
 }
 
 p {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Lato', sans-serif;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.row h1 {
+  font-family:'Playfair Display', serif;
+  font-size: 40px;
+  color: #818c9f;
+  padding-right: 40px;
+  padding-top: 15px;
+  letter-spacing: 10px;
+  font-weight: 100;
+}
+
+audio {
+  padding: 40px;
 }
 
 h1 {
+  text-align: center;
   font-family: 'Playfair Display', serif;
+  letter-spacing: 5px;
+  font-size: 40px;
+  color: #7c0000;
+}
+
+#blockquote {
+  width: 400px;
+}
+
+blockquote {
+	float: left;
+	width: 300px;
+	color: #7c0000;
+	font-size: 130%;
+	font-style: italic;
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	margin: 15px 0px 10px 10px;
+	padding: 8px;
+  padding-right: 30px;
+}
+
+#veganism {
+  width: 600px;
+  float: right;
+  padding-right: 60px;
+}
+
+#veganism img {
+  width: 600px;
+  padding-right: 30px;
+}
+
+#beef {
+  width: 600px;
+  float: right;
+  padding-right: 60px;
+}
+
+#beef img {
+  width: 600px;
+  padding-right: 30px;
+}
+
+figcaption {
+	font-family: 'Lato', Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	margin-top: 5px;
+	color: #828387;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+	width: 1200px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.vegan img {
+	width: 500px;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.vegan figcaption {
+	padding-right: 10px;
+}
+
+.veg img {
+	width: 500px;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.veg figcaption {
+	padding-left: 10px;
+}
+
+.clearfix {
+	overflow: auto;
+}
+
+#source p {
+  font-size: 12px;
+  text-align: center;
 }
