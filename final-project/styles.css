@@ -34,6 +34,7 @@ a:hover {
      padding-top: 15px;
      letter-spacing: 10px;
      font-weight: 100;
+     max-width: 100%;
 }
  audio {
      padding: 40px;
