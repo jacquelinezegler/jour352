@@ -10,6 +10,11 @@
      width: 1200px;
      max-width: 100%;
 }
+
+.text {
+  width: 85%;
+  margin: 0 auto;
+}
  p {
      font-family: 'Lato', sans-serif;
      line-height: 30px;
@@ -83,6 +88,7 @@ a:hover {
 }
  .row {
      display: flex;
+     flex-wrap: wrap;
      justify-content: center;
      width: 1200px;
      margin-left: 10px;
@@ -92,7 +98,7 @@ a:hover {
  .vegan img {
      width: 500px;
      margin-right: 0;
-     padding-right: 0;
+     padding-right: 10px;
      max-width: 100%;
 }
  .vegan figcaption {
@@ -101,7 +107,7 @@ a:hover {
  .veg img {
      width: 500px;
      margin-left: 0;
-     padding-left: 0;
+     padding-left: 10px;
      max-width: 100%;
 }
  .veg figcaption {
